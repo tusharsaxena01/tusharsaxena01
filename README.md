@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/tusharsaxena01/tusharsaxena01/blob/37458fc69a3d570ba0967f8832ffedc37509b427/images/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Profile GIF" height="30%">
+<img src="https://github.com/tusharsaxena01/tusharsaxena01/blob/37458fc69a3d570ba0967f8832ffedc37509b427/images/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Profile GIF" height="10%">
 
 
 <!--
