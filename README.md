@@ -2,6 +2,7 @@
 
 <img src="https://github.com/tusharsaxena01/tusharsaxena01/blob/37458fc69a3d570ba0967f8832ffedc37509b427/images/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Profile GIF" height="390px">
 
+🧑‍💻 I'm a Computer Science Student from [Buddha Institute of Technology](https://bit.ac.in)
 
 <!--
 **tusharsaxena01/tusharsaxena01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
