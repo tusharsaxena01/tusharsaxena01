@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Abhi Saxena
+<h2 align="center">I'm Abhi Saxena</h2>
 ---
 🧑‍💻 I'm a Computer Science Student from [Buddha Institute of Technology](https://bit.ac.in)<br>
 🌱 I’m currently learning *Android Development*
