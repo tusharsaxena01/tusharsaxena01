@@ -3,7 +3,7 @@
 <h2 align="center">I'm Abhi Saxena</h2>
 ---
 🧑‍💻 I'm a Computer Science Student from [Buddha Institute of Technology](https://bit.ac.in)<br>
-🌱 I’m currently learning *Android Development*
+🌱 I’m currently learning <b>Android Development</b>
 
 <img src="https://github.com/tusharsaxena01/tusharsaxena01/blob/37458fc69a3d570ba0967f8832ffedc37509b427/images/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Profile GIF" height="390px">
 
