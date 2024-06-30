@@ -1,5 +1,5 @@
 <h1 align="center">Hey There! 👋, I'm Abhi Saxena</h1>
-<h3 align="center">A passionate Computer Science student aspiring to be a successful Computer Science Engineer</h3>
+<h3 align="center">A passionate Computer Science student aspiring to be a successful Computer Science Engineer &nbsp; <img src="https://github.com/tusharsaxena01/tusharsaxena01/assets/71825717/a0ff7446-04b2-4b9a-8648-f2a57e9b0e93" width="200"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsaxena01&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsaxena01" /> </p>
 
